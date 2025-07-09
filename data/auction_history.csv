@@ -1,0 +1,301 @@
+location,property_type,bedrooms,bathrooms,sqft,year_built,min_bid,winning_bid,bidders_count,status,auction_month
+Houston,Commercial,4,2.5,3838,2006,280088,308415,9,Won,5
+Dallas,Commercial,1,4.0,1233,2008,248975,267589,2,Won,10
+Austin,Commercial,5,1.0,3795,1996,129510,123524,5,Lost,10
+Houston,Commercial,5,4.0,1768,2005,84863,77453,10,Lost,6
+San Antonio,Commercial,1,1.5,1776,2015,50902,85000,1,Won,5
+Houston,Commercial,5,1.5,2332,1995,76321,91204,3,Won,1
+Houston,Commercial,1,1.5,2836,2019,205006,202288,1,Lost,3
+San Antonio,Commercial,1,3.5,3116,2017,217504,210387,3,Lost,2
+Austin,Residential,3,3.0,2061,2013,200459,218213,10,Won,8
+Dallas,Commercial,1,2.5,3477,1960,234227,280853,1,Won,12
+Austin,Residential,2,2.0,3386,1985,191693,186545,8,Lost,10
+Dallas,Residential,3,3.0,2771,1993,152924,198852,6,Won,10
+Austin,Commercial,1,2.0,3300,1994,162506,153646,5,Lost,7
+Austin,Commercial,4,2.5,3570,1952,201155,199784,2,Lost,11
+Dallas,Residential,4,1.0,1364,2002,212521,209872,9,Lost,10
+Dallas,Commercial,3,1.0,1613,2010,165486,177674,6,Won,1
+Houston,Residential,1,1.5,1537,1990,172467,208131,9,Won,5
+Dallas,Residential,3,2.0,2358,1963,258945,280159,10,Won,4
+Dallas,Residential,4,2.0,2920,1989,215306,210402,2,Lost,10
+San Antonio,Commercial,4,2.5,1391,1998,295163,329085,7,Won,3
+Houston,Residential,2,3.5,2186,2002,67467,64327,10,Lost,3
+Austin,Residential,1,2.5,2759,1993,129857,159780,10,Won,8
+Austin,Commercial,3,2.5,1545,1969,172543,171004,9,Lost,4
+Houston,Residential,1,4.0,1335,1984,217428,227352,8,Won,7
+San Antonio,Commercial,4,1.5,3914,1981,265535,269921,4,Won,5
+Austin,Residential,4,2.5,3016,2021,242222,258897,10,Won,1
+San Antonio,Commercial,5,1.5,3768,1969,67068,89409,7,Won,11
+Dallas,Residential,1,3.0,2467,2020,232078,269910,1,Won,2
+Dallas,Commercial,1,2.0,2354,1968,136735,163424,5,Won,5
+Houston,Commercial,3,1.0,3099,1954,121978,156724,3,Won,8
+San Antonio,Residential,5,1.5,3094,2021,298871,323776,5,Won,5
+Houston,Commercial,5,4.0,3111,1961,120477,110666,3,Lost,4
+Dallas,Residential,3,1.0,878,1959,187069,180964,4,Lost,6
+Houston,Commercial,4,4.0,2953,1970,255594,290249,9,Won,1
+Dallas,Residential,3,1.5,3871,2008,287176,301032,3,Won,3
+Houston,Commercial,2,1.5,3211,1996,120082,139211,9,Won,1
+Austin,Residential,5,2.5,2550,2016,283770,291112,4,Won,1
+Austin,Commercial,2,3.5,3508,1957,242248,255565,3,Won,3
+Dallas,Commercial,5,3.0,3128,1957,264882,300150,8,Won,9
+Austin,Residential,3,3.5,1683,2012,256480,266844,4,Won,10
+Houston,Commercial,3,1.0,1269,1972,127196,121498,2,Lost,11
+Dallas,Commercial,5,2.0,2824,1986,121971,119752,3,Lost,8
+San Antonio,Commercial,4,1.5,3428,2005,141724,161372,5,Won,8
+Houston,Commercial,4,1.5,956,2008,279447,290296,8,Won,5
+Houston,Commercial,2,3.5,2764,1969,281892,301460,9,Won,10
+Dallas,Residential,3,3.0,2117,2020,197804,247354,1,Won,11
+Austin,Commercial,3,3.5,2353,1955,61111,53570,6,Lost,7
+San Antonio,Commercial,5,1.0,3538,1959,237581,230666,5,Lost,5
+Houston,Commercial,4,3.0,1358,1969,231681,248616,5,Won,10
+Dallas,Commercial,4,4.0,2691,1963,170487,194125,7,Won,10
+Houston,Residential,3,3.5,3124,2019,196965,189468,7,Lost,1
+San Antonio,Residential,5,1.0,1194,2005,280744,274992,10,Lost,4
+Dallas,Residential,3,4.0,1268,1973,123921,168825,7,Won,8
+Houston,Commercial,1,4.0,3597,1952,281570,329773,9,Won,11
+Austin,Commercial,5,1.0,1123,1958,235003,269895,4,Won,7
+Dallas,Residential,3,3.0,3430,1984,217518,209361,1,Lost,11
+San Antonio,Commercial,3,1.5,1645,2017,291859,288319,10,Lost,12
+Houston,Residential,2,1.5,3898,1978,208355,227405,8,Won,11
+Dallas,Commercial,1,2.0,2419,1994,169655,166859,9,Lost,2
+Austin,Residential,1,3.5,1159,1970,59239,67869,9,Won,9
+Houston,Residential,5,4.0,2040,2012,232835,270887,10,Won,10
+Dallas,Commercial,4,3.5,2738,1954,177205,170276,3,Lost,2
+San Antonio,Residential,4,1.5,2036,1978,81156,72779,7,Lost,10
+Austin,Commercial,3,2.0,1886,1995,216937,258777,2,Won,1
+San Antonio,Commercial,1,1.0,3862,2006,84298,133828,2,Won,9
+San Antonio,Residential,5,3.5,1525,1957,124970,116437,2,Lost,5
+San Antonio,Commercial,1,2.5,1606,1989,208213,253342,8,Won,1
+Austin,Residential,2,2.0,2725,1995,129716,161755,7,Won,7
+Austin,Commercial,1,1.5,2218,1965,151422,143849,2,Lost,1
+Dallas,Commercial,5,1.0,819,1998,208555,203643,1,Lost,3
+Houston,Residential,4,2.5,929,1980,177449,204866,6,Won,1
+San Antonio,Residential,3,2.5,1775,1950,284409,313406,2,Won,6
+Dallas,Commercial,4,4.0,1160,1999,150464,174303,5,Won,8
+Austin,Residential,5,3.0,1695,1987,140524,144260,9,Won,6
+San Antonio,Residential,5,4.0,1590,1972,122854,168354,4,Won,2
+San Antonio,Commercial,2,2.0,1676,1989,291620,314623,1,Won,10
+Dallas,Commercial,2,1.0,1863,1960,73164,90334,8,Won,7
+San Antonio,Residential,5,2.0,3452,1963,79353,92389,5,Won,7
+San Antonio,Residential,1,3.5,2910,1954,95891,93493,1,Lost,12
+Austin,Commercial,1,2.5,1981,2010,98153,91531,9,Lost,12
+Austin,Commercial,4,1.0,3475,1984,81811,83570,5,Won,5
+Dallas,Commercial,4,3.5,2800,2012,296779,287259,9,Lost,8
+Dallas,Commercial,1,3.5,1856,1995,88987,96160,8,Won,5
+Austin,Commercial,4,1.0,3244,2015,86856,113061,2,Won,11
+Dallas,Residential,3,2.0,1027,1998,279554,300422,2,Won,4
+San Antonio,Commercial,1,3.5,2457,1974,105404,115514,4,Won,8
+San Antonio,Commercial,3,1.5,1482,1987,146546,141716,7,Lost,1
+Houston,Residential,2,2.0,1186,1956,261109,293249,7,Won,10
+San Antonio,Residential,4,2.5,1539,1958,143519,178394,10,Won,2
+Houston,Commercial,4,4.0,1025,1966,104040,129464,6,Won,4
+San Antonio,Commercial,5,3.5,883,1965,269830,317707,10,Won,4
+San Antonio,Commercial,4,3.5,3750,2017,116099,111707,2,Lost,9
+Austin,Residential,1,1.0,1871,2018,231459,221803,10,Lost,5
+San Antonio,Residential,5,2.0,3421,1997,291097,295128,7,Won,3
+Austin,Residential,4,2.5,1656,1952,122566,136334,2,Won,2
+Austin,Residential,4,1.0,856,1966,126329,125321,8,Lost,3
+Dallas,Commercial,3,1.0,1138,2002,171658,194025,5,Won,7
+Austin,Commercial,2,1.5,2906,1995,189352,182532,3,Lost,2
+Dallas,Residential,4,1.0,3736,1979,107267,100779,6,Lost,11
+Houston,Commercial,5,3.0,1660,1966,219274,240989,4,Won,3
+Austin,Commercial,1,3.5,2688,1975,264640,256137,10,Lost,4
+Austin,Commercial,4,2.0,2076,1978,281399,285015,7,Won,5
+San Antonio,Residential,3,3.5,2566,1961,58350,52382,6,Lost,3
+Houston,Commercial,4,2.5,3426,2021,237525,271043,6,Won,4
+San Antonio,Residential,2,3.0,3007,2009,256250,258039,7,Won,1
+Dallas,Residential,5,3.0,3443,2010,274896,317911,4,Won,8
+Dallas,Residential,3,1.5,1477,2019,73855,99597,1,Won,8
+Houston,Commercial,3,3.5,2672,2014,245085,272111,10,Won,11
+Austin,Commercial,2,3.0,2408,1950,108555,99271,10,Lost,2
+Austin,Commercial,1,3.5,1650,2003,249428,242808,2,Lost,7
+Austin,Commercial,3,2.5,1673,1953,287783,315520,10,Won,4
+San Antonio,Residential,3,2.0,3833,1986,172640,169214,5,Lost,2
+San Antonio,Residential,2,3.5,1131,1998,74514,65915,1,Lost,11
+Houston,Commercial,3,4.0,2954,2008,296478,320048,1,Won,12
+Dallas,Residential,4,3.0,3049,1980,75139,116410,1,Won,5
+Houston,Residential,4,3.5,3478,1991,299552,313661,3,Won,2
+Houston,Residential,1,3.5,1984,1999,155858,167015,10,Won,7
+Houston,Commercial,3,3.5,3484,1997,135879,130036,10,Lost,2
+Houston,Commercial,5,3.0,3811,1970,240260,236946,7,Lost,1
+Austin,Residential,4,4.0,2994,1995,78367,73435,10,Lost,7
+Houston,Commercial,1,1.0,2230,1970,75062,95932,3,Won,6
+Austin,Residential,1,1.0,3205,1999,126970,163636,4,Won,10
+Houston,Commercial,2,4.0,2002,1984,282712,294319,6,Won,10
+Dallas,Commercial,1,2.5,3433,1980,137979,178456,4,Won,5
+Houston,Commercial,3,3.0,822,1962,183515,215057,9,Won,9
+San Antonio,Commercial,3,4.0,2818,1996,154976,184387,7,Won,9
+Houston,Commercial,5,1.5,2477,1977,254683,271734,1,Won,6
+Houston,Residential,3,2.0,3258,1951,298185,311884,5,Won,2
+Dallas,Commercial,5,1.0,3509,1963,166348,160688,4,Lost,4
+Austin,Commercial,4,2.5,1828,1954,126568,175800,5,Won,11
+Austin,Residential,5,3.5,3216,1971,250069,242816,2,Lost,1
+Austin,Commercial,1,3.5,3234,1982,99898,92468,3,Lost,6
+Austin,Residential,5,4.0,2240,2011,133597,123646,4,Lost,10
+Houston,Commercial,1,2.0,1606,2006,274148,284865,6,Won,9
+Houston,Commercial,2,3.5,2708,2001,171826,164564,1,Lost,12
+Houston,Commercial,1,3.0,2248,1955,155566,164391,1,Won,1
+Houston,Residential,2,2.5,2331,2011,88317,100497,10,Won,6
+Dallas,Residential,5,1.0,1665,1950,226152,221298,2,Lost,7
+Dallas,Residential,3,2.5,2833,1957,205213,231972,1,Won,7
+Dallas,Residential,3,1.0,1538,1992,68887,59519,4,Lost,4
+Dallas,Residential,1,3.5,3284,1960,245279,278911,1,Won,6
+Dallas,Commercial,2,1.0,907,1960,55699,71526,3,Won,4
+Austin,Commercial,2,1.0,3550,1956,94496,114742,7,Won,4
+San Antonio,Commercial,1,2.5,2456,1958,253040,247441,8,Lost,1
+Houston,Commercial,2,2.5,3552,1952,249970,257556,6,Won,7
+Austin,Commercial,1,1.5,3864,2015,82114,104488,6,Won,2
+Austin,Commercial,5,2.5,3305,1983,208606,235325,2,Won,4
+Dallas,Commercial,2,1.5,2041,1985,204813,222498,5,Won,4
+Austin,Commercial,5,1.5,3687,1986,237013,243605,2,Won,8
+Dallas,Residential,3,2.5,1059,1985,244902,241984,1,Lost,2
+Austin,Commercial,2,4.0,2129,2005,147160,180728,6,Won,6
+Dallas,Residential,1,1.5,1920,1963,167976,186080,1,Won,7
+Houston,Residential,5,2.0,1515,2018,67748,114914,5,Won,1
+Houston,Residential,4,3.0,2400,1987,99507,117289,9,Won,3
+San Antonio,Residential,1,4.0,1187,2012,160701,199907,5,Won,11
+San Antonio,Residential,3,2.5,2100,2009,230746,264509,1,Won,1
+San Antonio,Commercial,3,2.5,3283,2010,153103,150661,6,Lost,9
+Dallas,Commercial,5,2.5,2027,2010,137102,148910,10,Won,7
+Houston,Commercial,4,1.0,2653,1966,271563,286302,2,Won,1
+Dallas,Residential,4,2.0,2311,1992,141640,172731,8,Won,6
+San Antonio,Commercial,5,1.0,2278,2007,247481,239501,4,Lost,1
+San Antonio,Residential,4,3.0,2418,2003,280723,330611,4,Won,12
+San Antonio,Residential,4,1.0,1085,2018,225067,227860,5,Won,3
+Austin,Residential,2,1.5,3888,2015,87362,97536,1,Won,7
+Houston,Commercial,1,3.0,1413,2016,215848,227491,6,Won,2
+Dallas,Commercial,1,4.0,2772,1995,113893,139812,8,Won,2
+Houston,Commercial,5,4.0,2062,1996,63814,66932,3,Won,10
+Houston,Commercial,2,3.0,2247,1954,202183,199356,6,Lost,7
+Houston,Commercial,1,4.0,3348,1971,258378,288228,10,Won,5
+Houston,Residential,5,2.5,2952,1985,223773,247055,3,Won,4
+Austin,Commercial,4,3.5,2168,2010,161278,159714,8,Lost,5
+Houston,Commercial,4,3.5,2363,2005,52557,43699,6,Lost,5
+Houston,Residential,2,3.0,2996,1959,178459,222969,3,Won,9
+Dallas,Residential,5,3.0,1823,1989,68502,109085,1,Won,5
+San Antonio,Commercial,1,1.5,3873,2020,61285,52844,6,Lost,9
+San Antonio,Residential,4,3.5,1526,1958,172866,207426,3,Won,9
+Houston,Commercial,4,3.5,3399,1974,77569,70787,5,Lost,4
+Dallas,Commercial,3,1.5,3451,1972,116707,138234,7,Won,8
+Austin,Commercial,5,4.0,3711,1993,188900,202400,6,Won,10
+Dallas,Residential,5,3.0,1646,1999,68754,106126,1,Won,9
+Houston,Commercial,2,3.0,2723,1968,135351,182433,3,Won,1
+Austin,Commercial,5,1.0,1937,2016,172715,164184,3,Lost,10
+Houston,Residential,5,1.5,3581,2010,151494,160797,1,Won,8
+Austin,Residential,4,4.0,2846,2020,83437,80440,10,Lost,9
+Austin,Residential,2,1.5,859,2019,293097,302596,2,Won,4
+Dallas,Commercial,5,4.0,2521,1959,60362,78820,8,Won,9
+Houston,Commercial,3,2.0,3173,2004,163070,196170,9,Won,6
+Austin,Commercial,1,4.0,2156,2010,266871,275490,5,Won,12
+Houston,Commercial,2,3.5,2293,1956,150759,176041,2,Won,11
+Austin,Residential,2,1.5,1654,1963,52058,100504,6,Won,8
+Dallas,Residential,3,4.0,2772,2007,50394,80402,4,Won,2
+San Antonio,Residential,1,1.0,2239,1984,214543,208083,6,Lost,2
+Dallas,Commercial,3,3.5,3399,1982,157268,173744,1,Won,2
+San Antonio,Residential,2,2.5,2587,1972,188938,183892,9,Lost,10
+Houston,Residential,4,3.0,3909,1989,283161,321942,5,Won,10
+Houston,Residential,2,3.5,3240,1967,114556,110968,10,Lost,8
+Houston,Residential,4,2.0,2022,1992,224955,215315,1,Lost,1
+San Antonio,Commercial,3,4.0,3165,1985,96944,101823,1,Won,4
+San Antonio,Residential,5,2.0,3822,2018,182106,174214,1,Lost,4
+Houston,Residential,2,1.0,3541,1981,287704,330802,8,Won,11
+Houston,Commercial,5,1.0,1814,1969,162687,209400,3,Won,9
+Austin,Commercial,1,3.0,2891,1995,161823,209981,7,Won,7
+San Antonio,Commercial,5,1.0,3455,1990,292441,322749,6,Won,12
+Houston,Commercial,2,2.0,806,1963,246078,238651,1,Lost,1
+Dallas,Commercial,5,4.0,3962,1957,250281,274905,8,Won,10
+Austin,Commercial,4,4.0,3198,2005,174694,169527,4,Lost,6
+Austin,Residential,1,3.5,1107,1967,248096,269966,8,Won,11
+San Antonio,Commercial,3,1.5,1393,2007,218844,214946,10,Lost,9
+Houston,Residential,4,2.5,3436,2019,195857,200771,6,Won,11
+Dallas,Residential,4,2.0,2013,1994,159378,150920,1,Lost,9
+Houston,Residential,2,3.0,3188,1973,295215,319461,10,Won,5
+Austin,Commercial,4,2.0,2324,1988,153915,145580,8,Lost,1
+Dallas,Commercial,2,3.0,1174,1978,149314,177736,9,Won,8
+Austin,Commercial,4,3.0,3672,1965,173053,207740,2,Won,6
+Houston,Residential,4,2.5,1423,1960,124657,152026,7,Won,5
+San Antonio,Residential,3,1.0,3194,1995,269603,303275,9,Won,12
+Austin,Residential,2,1.5,2583,1975,52051,71993,9,Won,2
+Houston,Commercial,1,1.5,1197,1987,72191,68386,2,Lost,7
+Dallas,Residential,5,4.0,1007,1959,138056,182183,5,Won,11
+Dallas,Commercial,2,1.0,943,2000,105638,97144,2,Lost,8
+Houston,Residential,3,1.5,1597,1967,66145,114913,10,Won,6
+San Antonio,Residential,1,1.5,3723,1990,183986,219741,6,Won,10
+Austin,Commercial,3,1.0,3481,1991,159699,167023,4,Won,2
+San Antonio,Residential,5,4.0,1746,1993,294380,284739,7,Lost,8
+Dallas,Commercial,3,2.0,2450,1964,117282,108525,5,Lost,6
+Dallas,Commercial,4,4.0,1795,2017,149512,168831,6,Won,4
+San Antonio,Residential,4,3.0,2875,2022,245551,272322,9,Won,6
+Dallas,Commercial,5,3.0,2019,1970,158088,196540,3,Won,6
+Houston,Residential,2,3.5,1774,2019,186488,177526,7,Lost,5
+Houston,Commercial,3,3.5,2466,2010,179445,183221,9,Won,2
+Dallas,Residential,2,3.5,2780,1960,289165,319900,8,Won,6
+Dallas,Residential,2,4.0,2554,2022,281050,273382,9,Lost,12
+Austin,Residential,4,4.0,2584,1960,281464,326863,6,Won,7
+Austin,Commercial,2,1.0,3774,1954,260575,273014,8,Won,10
+San Antonio,Residential,1,4.0,2201,1997,96829,94807,2,Lost,2
+Austin,Commercial,2,2.5,3621,1995,153436,195114,4,Won,6
+Houston,Residential,5,2.5,860,2007,122036,170975,1,Won,6
+Houston,Residential,3,1.0,906,1961,248584,250265,1,Won,7
+San Antonio,Commercial,2,1.5,1764,1964,56509,54686,6,Lost,12
+Dallas,Commercial,3,2.0,2755,1963,235676,258667,8,Won,2
+Dallas,Commercial,2,1.5,1045,2020,190184,222269,4,Won,4
+Dallas,Commercial,4,2.5,1379,2004,135699,176455,3,Won,12
+San Antonio,Commercial,1,3.0,2978,1981,119691,143863,2,Won,12
+Dallas,Residential,4,1.5,3141,1992,250687,260230,9,Won,6
+San Antonio,Residential,2,3.5,1951,1975,85262,90508,1,Won,12
+Austin,Commercial,2,2.0,3001,2021,203290,213003,5,Won,5
+Austin,Commercial,1,3.0,951,1984,73282,101745,3,Won,2
+Houston,Residential,1,2.0,3459,1998,248033,258967,2,Won,1
+Dallas,Residential,2,2.5,3808,1989,249841,285001,9,Won,2
+Houston,Commercial,3,2.0,2233,1977,83995,101802,8,Won,3
+San Antonio,Commercial,1,1.0,1035,1998,157046,165673,9,Won,1
+Houston,Residential,4,2.5,2485,1980,237972,266803,4,Won,8
+Austin,Residential,1,1.5,2610,1955,229816,243350,5,Won,3
+Dallas,Residential,3,3.0,2116,2009,126344,164979,9,Won,3
+Dallas,Residential,1,2.5,3118,2016,175369,182523,8,Won,5
+Dallas,Residential,3,3.0,3443,1959,81006,86528,1,Won,8
+Dallas,Commercial,1,1.0,2150,1952,185932,234217,7,Won,1
+Austin,Commercial,1,2.0,3528,2003,112063,109956,7,Lost,5
+San Antonio,Residential,2,2.5,1541,1987,262134,253159,10,Lost,4
+Dallas,Commercial,3,2.0,981,1969,56105,70582,8,Won,3
+Austin,Residential,5,2.0,1574,1971,164352,212864,1,Won,11
+Dallas,Residential,4,4.0,1862,1965,214141,211837,8,Lost,8
+Dallas,Commercial,5,2.5,3129,1993,193275,222535,3,Won,6
+San Antonio,Residential,3,2.0,1158,1989,91404,93574,1,Won,7
+Houston,Residential,3,2.0,1482,2016,85586,76815,10,Lost,4
+Dallas,Residential,2,2.5,3348,2005,158027,205268,6,Won,5
+Austin,Residential,3,3.0,3449,2019,147784,142594,1,Lost,10
+Houston,Residential,3,3.0,1874,1996,92805,135163,9,Won,10
+Dallas,Commercial,2,3.0,1939,1984,86410,82906,8,Lost,3
+Houston,Residential,2,3.5,2007,1991,279781,273947,5,Lost,2
+Dallas,Residential,5,3.0,1634,1958,60370,50394,1,Lost,1
+Houston,Commercial,5,4.0,1204,1964,128019,130176,2,Won,12
+Dallas,Residential,3,4.0,3046,1981,116613,133986,10,Won,8
+Dallas,Residential,3,1.0,1301,1987,211035,224078,10,Won,6
+Dallas,Commercial,5,2.0,2058,1993,295110,289927,9,Lost,3
+Austin,Commercial,5,2.5,3709,1958,146134,136933,2,Lost,6
+San Antonio,Residential,2,3.5,1106,1974,205354,252108,9,Won,2
+Austin,Commercial,2,3.5,3532,2006,218102,212981,4,Lost,5
+Houston,Residential,2,2.5,3846,1998,100412,98515,2,Lost,2
+Austin,Commercial,3,2.0,1322,2017,181109,212114,3,Won,7
+San Antonio,Commercial,5,2.0,2300,1986,173152,209278,7,Won,7
+Dallas,Residential,3,2.5,2961,1955,69807,105966,2,Won,11
+Dallas,Residential,1,4.0,3310,2016,125841,170996,4,Won,8
+Dallas,Residential,3,1.5,2181,2000,230123,277614,7,Won,7
+San Antonio,Residential,5,2.5,2838,1954,109018,140619,3,Won,12
+Houston,Residential,4,2.5,955,1964,55094,53920,9,Lost,9
+Dallas,Residential,2,3.0,1595,2002,142596,137914,1,Lost,1
+Houston,Commercial,2,3.0,857,1997,88205,97433,1,Won,1
+Dallas,Residential,4,1.0,3290,1967,186139,181554,2,Lost,1
+Dallas,Residential,1,3.5,3193,1985,67053,87533,6,Won,1
+Dallas,Residential,2,3.5,3985,2004,85338,106346,2,Won,11
+San Antonio,Residential,1,1.5,1869,2011,110752,132560,4,Won,3
+Houston,Residential,1,3.0,2188,2002,153908,160304,10,Won,3
+San Antonio,Commercial,5,4.0,1837,2013,177987,169541,2,Lost,5
+Houston,Residential,3,1.5,1828,1976,240306,269076,7,Won,12
+Houston,Residential,3,1.0,845,1955,215712,208910,9,Lost,7
+Houston,Commercial,5,2.5,1943,1992,231243,245733,8,Won,5
+Dallas,Commercial,4,2.0,984,2003,62189,69332,1,Won,7
+Dallas,Commercial,5,4.0,3520,2004,188252,211729,7,Won,4
+Austin,Commercial,4,1.0,3438,2005,251659,269870,8,Won,11
