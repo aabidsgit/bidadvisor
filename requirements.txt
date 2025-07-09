@@ -1,0 +1,8 @@
+streamlit
+scikit-learn
+pandas
+python-dotenv
+joblib
+langchain
+langchain-google-genai
+protobuf==4.25.3
