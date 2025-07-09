@@ -131,7 +131,7 @@ class BidAdvisorApp:
         print(f"✅ Win Probability: {win_chance * 100:.2f}%")
 
 # --- Run the app ---
-if _name_ == "_main_":
+if __name__ == "__main__":
     app = BidAdvisorApp()
     user_query = "Suggest a bid for a 4BHK in Tampa, and 8 months in auction,4000 sqft, built recently with a min bid of 100000"
     app.run(user_query)
